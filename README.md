@@ -1,20 +1,34 @@
-Graph-Based Editor for LLM Workflows
+**Graph-Based Editor for LLM Workflows**
+
 ![Hero](https://github.com/user-attachments/assets/d2f9f74d-98f6-492b-895c-7bf8a83b6c17)
-✨ Core Benefits
-Modular Building Blocks
+
+
+**✨ Core Benefits**
+
+**Modular Building Blocks**
+
 ![Blocks](https://github.com/user-attachments/assets/c8707b3c-0e5d-4a45-a50a-a57fddc7909b) 
-Evaluate Final Performance
+
+
+**Evaluate Final Performance**
+
 ![evals](https://github.com/user-attachments/assets/32dd2a48-1da0-44ae-9080-72ab1b3ad7c9)
-Coming soon: Self-improvement
+
+
+**Coming soon: Self-improvement**
+
 ![Optimization](https://github.com/user-attachments/assets/aad1ea5f-e141-4726-bd46-d0c3b0b4c772)
-🕸️ Why Slack?
+
+
+**🕸️ Why Slack?**
 Easy-to-hack, eg., one can add new workflow nodes by simply creating a single Python file.
 JSON configs of workflow graphs, enabling easy sharing and version control.
 Lightweight via minimal dependencies, avoiding bloated LLM frameworks.
-⚡ Quick start
+
+**⚡ Quick start**
 You can launch Slack using pre-built docker images in the following steps:
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/Slack/Slack.git
 cd Slack
